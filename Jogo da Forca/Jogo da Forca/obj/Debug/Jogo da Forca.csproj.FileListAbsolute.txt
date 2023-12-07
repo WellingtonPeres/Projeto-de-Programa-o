@@ -1,0 +1,7 @@
+C:\Users\55619\Desktop\IESB\Lógica de Programação\Jogos\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+C:\Users\55619\Desktop\IESB\Lógica de Programação\Jogos\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+C:\Users\55619\Desktop\IESB\Lógica de Programação\Jogos\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+C:\Users\55619\Desktop\IESB\Lógica de Programação\Jogos\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csprojAssemblyReference.cache
+C:\Users\55619\Desktop\IESB\Lógica de Programação\Jogos\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.CoreCompileInputs.cache
+C:\Users\55619\Desktop\IESB\Lógica de Programação\Jogos\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+C:\Users\55619\Desktop\IESB\Lógica de Programação\Jogos\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.pdb

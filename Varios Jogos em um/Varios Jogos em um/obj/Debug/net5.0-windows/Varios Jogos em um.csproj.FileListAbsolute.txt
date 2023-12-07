@@ -1,0 +1,74 @@
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\bin\Debug\net5.0-windows\Varios Jogos em um.exe
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\bin\Debug\net5.0-windows\Varios Jogos em um.deps.json
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\bin\Debug\net5.0-windows\Varios Jogos em um.runtimeconfig.json
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\bin\Debug\net5.0-windows\Varios Jogos em um.runtimeconfig.dev.json
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\bin\Debug\net5.0-windows\Varios Jogos em um.dll
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\bin\Debug\net5.0-windows\ref\Varios Jogos em um.dll
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\bin\Debug\net5.0-windows\Varios Jogos em um.pdb
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.csprojAssemblyReference.cache
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.csproj.GenerateResource.cache
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.AssemblyInfoInputs.cache
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.AssemblyInfo.cs
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.csproj.CoreCompileInputs.cache
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.dll
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\ref\Varios Jogos em um.dll
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.pdb
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.genruntimeconfig.cache
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Properties.Resources.resources
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.AdivinheSePuder.resources
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Pokemon.resources
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Yu_gi_oh.resources
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Jogo_da_Velha.resources
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Jogo_da_Forca.resources
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Jogo_da_Memória.resources
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Batalha_Naval.resources
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Sequencia_Correta.resources
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Jokenpo.resources
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Menu.resources
+C:\Users\55619\source\repos\Jogos-em-Csharp-Forms\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Quiz.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\bin\Debug\net5.0-windows\Varios Jogos em um.exe
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\bin\Debug\net5.0-windows\Varios Jogos em um.deps.json
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\bin\Debug\net5.0-windows\Varios Jogos em um.runtimeconfig.json
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\bin\Debug\net5.0-windows\Varios Jogos em um.runtimeconfig.dev.json
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\bin\Debug\net5.0-windows\Varios Jogos em um.dll
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\bin\Debug\net5.0-windows\ref\Varios Jogos em um.dll
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\bin\Debug\net5.0-windows\Varios Jogos em um.pdb
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.csprojAssemblyReference.cache
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.AdivinheSePuder.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Batalha_Naval.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Jogo_da_Forca.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Jogo_da_Memória.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Jogo_da_Velha.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Jokenpo.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Menu.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Pokemon.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Properties.Resources.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Quiz.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Sequencia_Correta.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Yu_gi_oh.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.csproj.GenerateResource.cache
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.AssemblyInfoInputs.cache
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.AssemblyInfo.cs
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.csproj.CoreCompileInputs.cache
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.dll
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\ref\Varios Jogos em um.dll
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.pdb
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios Jogos em um.genruntimeconfig.cache
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Categorias.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.GameDesigner.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.IlustracaoAnatomia.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Ingles.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.LogProgramacao.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.MatFisica.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Quiz1.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.Resultado.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.BatalhaNavalMenu.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.JogoDaVelhaMenu.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.JokenpoMenu.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.JogoDaMemoriaMenu.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.AdivinheSePoderMenu.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.AdivinheASequenciaMenu.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.YuGiOhMenu.resources
+C:\Users\peres\Downloads\Varios jogos em 1\Varios Jogos em um\Varios Jogos em um\obj\Debug\net5.0-windows\Varios_Jogos_em_um.PokemonMenu.resources

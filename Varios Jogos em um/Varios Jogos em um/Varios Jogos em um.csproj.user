@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdivinheASequenciaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdivinheSePoderMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Batalha Naval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BatalhaNavalMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Categorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GameDesigner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IlustracaoAnatomia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ingles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Jogo da Forca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Jogo da Memória.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Jogo da Velha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="JogoDaMemoriaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="JogoDaVelhaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Jokenpo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="JokenpoMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LogProgramacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MatFisica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adivinhe se Puder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pokemon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PokemonMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quiz1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resultado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sequencia Correta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Yu gi oh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YuGiOhMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
